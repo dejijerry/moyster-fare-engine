@@ -1,0 +1,13 @@
+[
+  { "day": "Monday", "date": "2025-10-06", "from": "1", "to": "2", "time": "08:00" },
+  { "day": "Monday", "date": "2025-10-06", "from": "1", "to": "1", "time": "10:00" },
+  { "day": "Tuesday", "date": "2025-10-07", "from": "1", "to": "2", "time": "08:00" },
+  { "day": "Wednesday", "date": "2025-10-08", "from": "2", "to": "1", "time": "18:00" },
+  { "day": "Friday", "date": "2025-10-10", "from": "2", "to": "2", "time": "09:00" },
+  { "day": "Saturday", "date": "2025-10-11", "from": "2", "to": "2", "time": "11:00" },
+  { "day": "Sunday", "date": "2025-10-12", "from": "2", "to": "2", "time": "12:00" },
+  { "day": "Monday", "date": "2025-10-13", "from": "1", "to": "2", "time": "08:00" },
+  { "day": "Tuesday", "date": "2025-10-14", "from": "1", "to": "1", "time": "11:00" },
+  { "day": "Thursday", "date": "2025-10-16", "from": "2", "to": "1", "time": "09:00" },
+  { "day": "Saturday", "date": "2025-10-18", "from": "2", "to": "2", "time": "15:00" }
+]
